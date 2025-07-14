@@ -1,0 +1,11 @@
+openai-agents
+openai
+pydantic
+groq
+python-dotenv
+openai-agents[litellm]
+googlemaps
+playwright
+#playwright install 
+fastapi
+uvicorn
